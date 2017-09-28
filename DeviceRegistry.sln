@@ -1,7 +1,7 @@
 
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeviceRegistry", "DeviceRegistry\DeviceRegistry.csproj", "{308C22BB-0FCD-4269-9FBF-333CF47CF7E3}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeviceRegistryRepo", "DeviceRegistry\DeviceRegistryRepo.csproj", "{308C22BB-0FCD-4269-9FBF-333CF47CF7E3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
